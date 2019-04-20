@@ -22,11 +22,11 @@ Para levarmos contúdos técnicos para aqueles que não possam estar em SP, faze
 Aquele menino do computador que vai nos ajudar a organizar o nosso GitHub e concentrar todos os materiais de palestrantes, nossa futura página, PR e tudo que há de bom!, além de ajudar a galera com conteúdo o técnico \0/
 
 ### Marketing / Design
-[Marketing/divulgação]
+#### [Marketing/divulgação]
 
 Você que passa o dia inteiro nas redes socias, sabia que você pode ser um contributor também? você pode cuidar das nossas redes socias fazendo posts, sendo bloguerinha(o) e falando do quão MARA são os nossos meetups :D
 
-[Design]
+#### [Design]
 
 Não podemos chegar nas festas com a "roupa de ficar em casa" né? então precisamos estar bonitões, para isso precisamos de alguém que saiba fazer aqueles flyers "topilson" pra chamar a galera toda pra festa! \0/ 
 
