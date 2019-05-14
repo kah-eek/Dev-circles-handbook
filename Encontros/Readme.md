@@ -1,13 +1,16 @@
 # Encontros
-Nossos encontros são geralmente técnicos e não obrigatŕoamente falamos apenas de técnologias do Facebook, estamos aberto a qualuqer tipo de tecnologia que você tenha conteúdo a compartilhar \0/
+
+Nossos encontros são geralmente técnicos e não obrigatoriamente falamos apenas de tecnologias do Facebook, estamos abertos a qualquer tipo de tecnologia que você tenha conteúdo a compartilhar \0/
 
 ## Onde posso encontrar os próximos eventos?
- Divulgamos nossos eventos nas plataformas: 
- - [Meetup]()
- - [Splash]()
- - [Grupo do facebook]()
- 
- ## Encontros passados 
+
+Divulgamos nossos eventos nas plataformas:
+
+- [Meetup](https://www.meetup.com/DevCSP/)
+- [Splash](https://devcsp.splashthat.com/)
+- [Grupo do facebook](https://www.facebook.com/groups/DevCSaoPaulo/)
+
+## Encontros passados
 
 - [24º encontro]()
 - [23º encontro]()
@@ -33,4 +36,3 @@ Nossos encontros são geralmente técnicos e não obrigatŕoamente falamos apena
 - [03º encontro]()
 - [02º encontro]()
 - [01º encontro]()
-
