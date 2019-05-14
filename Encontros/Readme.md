@@ -1,6 +1,6 @@
 # Encontros
 
-Nossos encontros são geralmente técnicos e não obrigatóriamente falamos apenas de técnologias do Facebook, estamos abertos a qualquer tipo de tecnologia que você tenha conteúdo a compartilhar \0/
+Nossos encontros são geralmente técnicos e não obrigatoriamente falamos apenas de tecnologias do Facebook, estamos abertos a qualquer tipo de tecnologia que você tenha conteúdo a compartilhar \0/
 
 ## Onde posso encontrar os próximos eventos?
 
